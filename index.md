@@ -1,0 +1,4 @@
+---
+layout: site
+---
+## GitHub Training
