@@ -1,5 +1,4 @@
 ---
 layout: site
 ---
-
 ## GitHub Training
