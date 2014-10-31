@@ -1,3 +1,7 @@
+---
+layout: site
+---
+
 <html>
   <head>
     <title>GitHub Training</title>
