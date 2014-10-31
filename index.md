@@ -2,12 +2,4 @@
 layout: site
 ---
 
-<html>
-  <head>
-    <title>GitHub Training</title>
-  </head>
-
-  <body>
-    <h1>GitHub Training</h1>
-  </body>
-</html>
+## GitHub Training
